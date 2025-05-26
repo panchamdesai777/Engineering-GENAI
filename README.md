@@ -23,7 +23,7 @@ This repository contains two tasks focused on the use of Machine Learning and Ge
    Documents were split into 500-word chunks by section.
 
 2. **Embedding**  
-   Each chunk was embedded using `SentenceTransformer`.
+   Each chunk was embedded using `Word2Vec`.
 
 3. **Standardization**  
    Embeddings were scaled using `StandardScaler`.
