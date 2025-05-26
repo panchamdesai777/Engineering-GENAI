@@ -8,12 +8,12 @@ This repository contains two tasks focused on the use of Machine Learning and Ge
 - **Filing Type**: 10-K
 - **Years Covered**: 2018–2020
 - **Documents Used**:
-  - Task #1: 10 Companies (2020 only)
-  - Task #2: 1 Company (2018–2020)
+  - Engineering #1: 10 Companies (2020 only)
+  - Gen AI #2: 1 Company (2018–2020)
 
 ---
 
-## 🧠 Task #1 – Document Embedding & Clustering
+## 🧠 Engineering #1 – Document Embedding & Clustering
 
 **Objective**: Visualize and identify outlier document sections in 10-K filings using clustering techniques.
 
@@ -42,7 +42,7 @@ This repository contains two tasks focused on the use of Machine Learning and Ge
 
 ---
 
-## 🤖 Task #2 – Generative AI for Data Extraction
+## 🤖 Gen AI #2 – Generative AI for Data Extraction
 
 **Objective**: Extract structured insights from 10-K filings of a single company using LLM embeddings and similarity search.
 
