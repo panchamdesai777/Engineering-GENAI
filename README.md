@@ -80,5 +80,6 @@ This repository contains two tasks focused on the use of Machine Learning and Ge
 - **Embedding Model**: `sentence-transformers/all-MiniLM-L6-v2`
 - **Dimensionality Reduction**: PCA
 - **Clustering**: KMeans
+- **LLM** - GROQ API
 
 ---
