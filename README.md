@@ -58,7 +58,7 @@ This repository contains two tasks focused on the use of Machine Learning and Ge
    Custom prompts were used to extract specific business information (e.g., company overview, risk factors, etc.).
 
 4. **Similarity Retrieval**  
-   Cosine similarity was used to select top relevant chunks.
+   Used a RAG-based approach with a FAISS vector database to retrieve the top relevant chunks.
 
 5. **Validation**  
    Ground truth values were collected for 5 attributes to evaluate LLM extraction accuracy.
